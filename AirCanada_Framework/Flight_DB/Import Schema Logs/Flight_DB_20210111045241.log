@@ -1,0 +1,82 @@
+1/10/2021 11:52:41 PM	This log contains information about the import schema operation into project 'Flight_DB' on computer 'DESKTOP-J9644LR' by user 'Ravinda'.
+1/10/2021 11:52:41 PM	Import of database schema has started.
+1/10/2021 11:52:46 PM	Gathering database credentials
+1/10/2021 11:52:46 PM	Gathering database options
+1/10/2021 11:52:46 PM	Gathering users
+1/10/2021 11:52:46 PM	Gathering roles
+1/10/2021 11:52:46 PM	Gathering application roles
+1/10/2021 11:52:46 PM	Gathering role memberships
+1/10/2021 11:52:46 PM	Gathering filegroups
+1/10/2021 11:52:46 PM	Gathering full-text catalogs
+1/10/2021 11:52:46 PM	Gathering assemblies
+1/10/2021 11:52:46 PM	Gathering certificates
+1/10/2021 11:52:46 PM	Gathering asymmetric keys
+1/10/2021 11:52:46 PM	Gathering symmetric keys
+1/10/2021 11:52:46 PM	Gathering encrypted symmetric keys
+1/10/2021 11:52:46 PM	Gathering schemas
+1/10/2021 11:52:46 PM	Gathering XML schema collections
+1/10/2021 11:52:46 PM	Gathering user-defined data types
+1/10/2021 11:52:46 PM	Gathering user-defined types
+1/10/2021 11:52:46 PM	Gathering table types
+1/10/2021 11:52:46 PM	Gathering unique keys for table types
+1/10/2021 11:52:46 PM	Gathering primary keys for table types
+1/10/2021 11:52:46 PM	Gathering indexes for table types
+1/10/2021 11:52:46 PM	Gathering check constraints for table types
+1/10/2021 11:52:46 PM	Gathering default constraints for table types
+1/10/2021 11:52:46 PM	Gathering partition functions
+1/10/2021 11:52:46 PM	Gathering partition schemes
+1/10/2021 11:52:46 PM	Gathering functions
+1/10/2021 11:52:46 PM	Gathering encrypted functions
+1/10/2021 11:52:46 PM	Gathering aggregates
+1/10/2021 11:52:46 PM	Gathering procedures
+1/10/2021 11:52:46 PM	Gathering encrypted procedures
+1/10/2021 11:52:46 PM	Gathering tables
+1/10/2021 11:52:46 PM	Gathering primary keys
+1/10/2021 11:52:46 PM	Gathering unique constraints
+1/10/2021 11:52:46 PM	Gathering foreign keys
+1/10/2021 11:52:47 PM	Gathering default constraints
+1/10/2021 11:52:47 PM	Gathering check constraints
+1/10/2021 11:52:47 PM	Gathering views
+1/10/2021 11:52:47 PM	Gathering encrypted views
+1/10/2021 11:52:47 PM	Gathering indexes
+1/10/2021 11:52:47 PM	Gathering statistics
+1/10/2021 11:52:47 PM	Gathering full-text index stoplists
+1/10/2021 11:52:47 PM	Gathering search property lists
+1/10/2021 11:52:47 PM	Gathering search properties
+1/10/2021 11:52:47 PM	Gathering full-text indexes
+1/10/2021 11:52:47 PM	Gathering column store indexes
+1/10/2021 11:52:47 PM	Gathering spatial indexes
+1/10/2021 11:52:47 PM	Gathering XML indexes
+1/10/2021 11:52:47 PM	Gathering Selective XML indexes
+1/10/2021 11:52:47 PM	Gathering encrypted triggers
+1/10/2021 11:52:47 PM	Gathering triggers
+1/10/2021 11:52:47 PM	Gathering encrypted and clr ddl triggers
+1/10/2021 11:52:47 PM	Gathering ddl triggers
+1/10/2021 11:52:47 PM	Gathering synonyms
+1/10/2021 11:52:47 PM	Gathering defaults
+1/10/2021 11:52:47 PM	Gathering data constraint uddt bindings
+1/10/2021 11:52:47 PM	Gathering rules
+1/10/2021 11:52:47 PM	Gathering data constraint uddt bindings
+1/10/2021 11:52:47 PM	Gathering message types
+1/10/2021 11:52:47 PM	Gathering queues
+1/10/2021 11:52:47 PM	Gathering contracts
+1/10/2021 11:52:47 PM	Gathering services
+1/10/2021 11:52:47 PM	Gathering event notifications
+1/10/2021 11:52:47 PM	Gathering remote service bindings
+1/10/2021 11:52:47 PM	Gathering broker priorities
+1/10/2021 11:52:47 PM	Gathering signatures
+1/10/2021 11:52:47 PM	Gathering data compression options
+1/10/2021 11:52:47 PM	Gathering sequence types
+1/10/2021 11:52:47 PM	Gathering security policies
+1/10/2021 11:52:47 PM	Gather column encryption keys
+1/10/2021 11:52:47 PM	Gathering column master keys
+1/10/2021 11:52:47 PM	Gathering external data sources
+1/10/2021 11:52:47 PM	Gathering external file formats
+1/10/2021 11:52:47 PM	Gathering external tables
+1/10/2021 11:52:47 PM	Gathering extended properties
+1/10/2021 11:52:48 PM	Gathering credentials
+1/10/2021 11:52:48 PM	Gathering logins
+1/10/2021 11:52:48 PM	Gathering server audits
+1/10/2021 11:52:48 PM	Finished importing database.
+1/10/2021 11:52:48 PM	A summary of the import was saved to the following location: C:\Users\Ravinda\source\repos\AirCanada_Framework\Flight_DB\Import Schema Logs\Flight_DB_20210111045241.log
+1/10/2021 11:52:48 PM	Click Finish to continue...

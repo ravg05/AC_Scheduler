@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Flight Data";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Air Canada Public Schedule</p>
+    <p>@Html.ActionLink("Print Flights", "PrintFlights")</p>
+    <Table ID="Table1" runat="server" style="margin:0 auto" CellPadding="15" border="1" HorizontalAlign="Left" BackColor="#99ccff" Font-Bold="true">
+        <tr>
+            <td>Flight Number</td>
+            <td>Period Of Operation</td>
+            <td>Days Of Operation</td>
+            <td>Departure Time</td>
+            <td>Origin Station</td>
+            <td>Destination Station</td>
+            <td>AirCraft</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.flightno</td>
+                <td>@item.PeriodOperation</td>
+                <td>@item.DaysOfOperation</td>
+                <td>@item.DepartureTime</td>
+                <td>@item.OriginStation</td>
+                <td>@item.DestinationStation</td>
+                <td>@item.Aircraft</td>
+            </tr>
+        }
+    </Table>
+</div>
