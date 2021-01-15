@@ -3,7 +3,7 @@ AC Flight Scheduler
 Overview of implementation:
 - Scheduling framework ingests data sent through a message queue and stored into a file/database 
 (This contains a template for a database implementation but has a JSON file solution)
-- Data is then retrieved by the public schedule viewer (accessing flights JSON file)
+- Data is communicated between the scheduling framework and public timetable using JSON (This can also be done using other IPC communication methods)
 - Uses the MSMQ message queue to replicate data being sent between the scheduling tool to scheduling framework
 - The scheduling framework is running .NET framework 4.7
 - The public scheduling viewer is running on .NET Core 5.0
