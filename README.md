@@ -1,4 +1,4 @@
-AC Flight Scheduler 
+Air Canada Flight Scheduler 
 
 Overview of implementation:
 - Scheduling framework ingests data sent through a message queue and stored into a file/database 
